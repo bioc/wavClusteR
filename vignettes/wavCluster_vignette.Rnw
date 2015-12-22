@@ -248,7 +248,7 @@ is returned. Notice that the relative log odds can be used to rank clusters acco
 %%--------------------------------------------------
 
 \Rpackage{wavClusteR} 2.0 contains a variety of functions (summarized in Table~1) that help the user in the post-processing of the identified wavClusters.
-\begin{table}[htdp]
+\begin{table}[htp]
 \begin{center}
 \begin{tabular}{|p{7cm}|p{3.8cm}|p{3.6cm}|}
 \hline
